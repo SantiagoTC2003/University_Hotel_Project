@@ -1,0 +1,65 @@
+﻿@model IEnumerable<FrontEnd_Proyecto_1.Models.ClienteModel>
+
+@{
+    Layout = "~/Views/Shared/_LayoutDashboard.cshtml";
+    ViewData["Title"] = "Index";
+}
+
+<h1>Administrar Clientes</h1>
+
+<p>
+    <a asp-controller="Cliente" asp-action="crearCliente">Crear un nuevo cliente</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Cédula
+            </th>
+            <th>
+                Nombre
+            </th>
+            <th>
+                1er Apellido
+            </th>
+            <th>
+                2do Apellido
+            </th>
+            <th>
+                Teléfono
+            </th>
+            <th>
+                Email
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CedulaCliente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreCliente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Apellido1Cliente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Apellido2Cliente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TelefonoCliente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CorreoCliente)
+            </td>
+            <td>
+                @Html.ActionLink("Modificar", "EditarCliente", "Cliente", new { item.CedulaCliente }, new { @class = "btn btn-primary" }) |
+                @Html.ActionLink("Eliminar", "Eliminar", "Cliente", new { item.CedulaCliente }, new { @class = "btn btn-danger" })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

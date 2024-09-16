@@ -1,0 +1,60 @@
+﻿@model FrontEnd_Proyecto_1.Models.ClienteModel
+
+@{
+    Layout = "~/Views/Shared/_LayoutDashboard.cshtml";
+    ViewData["Title"] = "Eliminar";
+}
+
+<h1>Eliminar cliente</h1>
+
+<h4>¿Seguro que desea eliminar este cliente?</h4>
+<div>
+    <hr />
+
+    <form asp-action="EliminarCliente" asp-controller="Cliente" method="post" class="col-md-12">
+
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group col-12 col-md-6">
+            <label asp-for="CedulaCliente" class="control-label"></label>
+            <input asp-for="CedulaCliente" readonly="readonly" class="form-control" />
+        </div>
+        <div class="form-group col-12 col-md-6">
+            <label asp-for="NombreCliente" class="control-label"></label>
+            <input asp-for="NombreCliente" readonly="readonly" class="form-control" />
+            <span asp-validation-for="NombreCliente" class="text-danger"></span>
+        </div>
+        <div class="form-group col-12 col-md-6">
+            <label asp-for="Apellido1Cliente" class="control-label"></label>
+            <input asp-for="Apellido1Cliente" readonly="readonly" class="form-control" />
+            <span asp-validation-for="Apellido1Cliente" class="text-danger"></span>
+        </div>
+        <div class="form-group col-12 col-md-6">
+            <label asp-for="Apellido2Cliente" class="control-label"></label>
+            <input asp-for="Apellido2Cliente" readonly="readonly" class="form-control" />
+            <span asp-validation-for="Apellido2Cliente" class="text-danger"></span>
+        </div>
+        <div class="form-group col-12 col-md-6">
+            <label asp-for="TelefonoCliente" class="control-label"></label>
+            <input asp-for="TelefonoCliente" readonly="readonly" class="form-control" />
+            <span asp-validation-for="TelefonoCliente" class="text-danger"></span>
+        </div>
+        <div class="form-group col-12 col-md-6">
+            <label asp-for="CorreoCliente" class="control-label"></label>
+            <input asp-for="CorreoCliente" readonly="readonly" class="form-control" />
+            <span asp-validation-for="CorreoCliente" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Eliminar" class="btn btn-danger" />
+        </div>
+
+    </form>
+    <div>
+        <br />
+        <a asp-action="Index">Volver a la lista</a>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

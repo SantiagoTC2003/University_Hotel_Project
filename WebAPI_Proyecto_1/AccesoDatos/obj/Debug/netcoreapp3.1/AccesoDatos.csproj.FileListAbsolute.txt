@@ -1,0 +1,16 @@
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\AccesoDatos\bin\Debug\netcoreapp3.1\AccesoDatos.deps.json
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\AccesoDatos\bin\Debug\netcoreapp3.1\AccesoDatos.dll
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\AccesoDatos\bin\Debug\netcoreapp3.1\AccesoDatos.pdb
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\AccesoDatos\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\AccesoDatos\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.AssemblyInfo.cs
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.csproj.CopyComplete
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.dll
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.pdb
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\AccesoDatos\bin\Debug\netcoreapp3.1\AccesoDatos.runtimeconfig.json
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\AccesoDatos\bin\Debug\netcoreapp3.1\AccesoDatos.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.genruntimeconfig.cache

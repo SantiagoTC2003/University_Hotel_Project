@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Presentacion.Models.ReservaModel>
+
+@{
+    Layout = "~/Views/Shared/_LayoutDashboard.cshtml";
+    ViewData["Title"] = "Index";
+}
+
+<h4>Consulta de reservaciones</h4>
+<br />
+<br />
+<h4>Ingresa la cédula del del Cliente o el código de reserva</h4>
+<br />
+<h4>Seleccione su opción:</h4>
+<br />
+@using (Html.BeginForm("ValorSeleccionado", "Reserva", FormMethod.Post))
+{
+    <label>Cédula/Código</label>
+    <br />
+    @Html.DropDownList("ddlFiltro", (List<SelectListItem>)ViewBag.Listado)
+    <br />
+    <br />
+    <label>Digite el dato correspondiente:</label>
+    <br />
+    @Html.TextBox("TextBoxInfo", "")
+    <br />
+    <input type="submit" value="Buscar" />
+    <br />
+}
+
+<div>
+    <br />
+    <a asp-action="Index">Lista de consultas</a>
+</div>

@@ -1,0 +1,12 @@
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Entidades\obj\Debug\netcoreapp3.1\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Entidades\bin\Debug\netcoreapp3.1\Entidades.runtimeconfig.json
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Entidades\bin\Debug\netcoreapp3.1\Entidades.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Entidades\obj\Debug\netcoreapp3.1\Entidades.genruntimeconfig.cache

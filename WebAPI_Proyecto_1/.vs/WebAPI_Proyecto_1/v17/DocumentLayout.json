@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Universidad\\Proyecto 1\\Proyecto 1\\WebAPI_Proyecto_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{021D9167-A0EE-4FDA-8C80-87A26C06889D}|Entidades\\Entidades.csproj|c:\\users\\admin\\documents\\universidad\\proyecto 1\\proyecto 1\\webapi_proyecto_1\\entidades\\sqlserver\\hotelproyectocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021D9167-A0EE-4FDA-8C80-87A26C06889D}|Entidades\\Entidades.csproj|solutionrelative:entidades\\sqlserver\\hotelproyectocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB62650-95EF-4A7F-AFDC-5A7748B11A79}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\admin\\documents\\universidad\\proyecto 1\\proyecto 1\\webapi_proyecto_1\\accesodatos\\interfaces\\iclientesadsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB62650-95EF-4A7F-AFDC-5A7748B11A79}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\interfaces\\iclientesadsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB62650-95EF-4A7F-AFDC-5A7748B11A79}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\admin\\documents\\universidad\\proyecto 1\\proyecto 1\\webapi_proyecto_1\\accesodatos\\clientesadsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB62650-95EF-4A7F-AFDC-5A7748B11A79}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\clientesadsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D07AE1-BA1C-4E63-88D7-498DD027CB88}|Negocio\\Negocio.csproj|c:\\users\\admin\\documents\\universidad\\proyecto 1\\proyecto 1\\webapi_proyecto_1\\negocio\\interfaces\\sqlserver\\iclientensql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D07AE1-BA1C-4E63-88D7-498DD027CB88}|Negocio\\Negocio.csproj|solutionrelative:negocio\\interfaces\\sqlserver\\iclientensql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{021D9167-A0EE-4FDA-8C80-87A26C06889D}|Entidades\\Entidades.csproj|c:\\users\\admin\\documents\\universidad\\proyecto 1\\proyecto 1\\webapi_proyecto_1\\entidades\\sqlserver\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021D9167-A0EE-4FDA-8C80-87A26C06889D}|Entidades\\Entidades.csproj|solutionrelative:entidades\\sqlserver\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB62650-95EF-4A7F-AFDC-5A7748B11A79}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\admin\\documents\\universidad\\proyecto 1\\proyecto 1\\webapi_proyecto_1\\accesodatos\\accesomongodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB62650-95EF-4A7F-AFDC-5A7748B11A79}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\accesomongodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB62650-95EF-4A7F-AFDC-5A7748B11A79}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\admin\\documents\\universidad\\proyecto 1\\proyecto 1\\webapi_proyecto_1\\accesodatos\\interfaces\\iaccesomongodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB62650-95EF-4A7F-AFDC-5A7748B11A79}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\interfaces\\iaccesomongodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HotelProyectoContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Universidad\\Proyecto 1\\Proyecto 1\\WebAPI_Proyecto_1\\Entidades\\SQLServer\\HotelProyectoContext.cs",
+              "RelativeDocumentMoniker": "Entidades\\SQLServer\\HotelProyectoContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Universidad\\Proyecto 1\\Proyecto 1\\WebAPI_Proyecto_1\\Entidades\\SQLServer\\HotelProyectoContext.cs",
+              "RelativeToolTip": "Entidades\\SQLServer\\HotelProyectoContext.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAwAYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T07:11:34.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IClientesADSQL.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Universidad\\Proyecto 1\\Proyecto 1\\WebAPI_Proyecto_1\\AccesoDatos\\Interfaces\\IClientesADSQL.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Interfaces\\IClientesADSQL.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Universidad\\Proyecto 1\\Proyecto 1\\WebAPI_Proyecto_1\\AccesoDatos\\Interfaces\\IClientesADSQL.cs",
+              "RelativeToolTip": "AccesoDatos\\Interfaces\\IClientesADSQL.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T07:08:47.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientesADSQL.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Universidad\\Proyecto 1\\Proyecto 1\\WebAPI_Proyecto_1\\AccesoDatos\\ClientesADSQL.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\ClientesADSQL.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Universidad\\Proyecto 1\\Proyecto 1\\WebAPI_Proyecto_1\\AccesoDatos\\ClientesADSQL.cs",
+              "RelativeToolTip": "AccesoDatos\\ClientesADSQL.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T07:08:33.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IClienteNSQL.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Universidad\\Proyecto 1\\Proyecto 1\\WebAPI_Proyecto_1\\Negocio\\Interfaces\\SQLServer\\IClienteNSQL.cs",
+              "RelativeDocumentMoniker": "Negocio\\Interfaces\\SQLServer\\IClienteNSQL.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Universidad\\Proyecto 1\\Proyecto 1\\WebAPI_Proyecto_1\\Negocio\\Interfaces\\SQLServer\\IClienteNSQL.cs",
+              "RelativeToolTip": "Negocio\\Interfaces\\SQLServer\\IClienteNSQL.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T07:08:21.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Universidad\\Proyecto 1\\Proyecto 1\\WebAPI_Proyecto_1\\Entidades\\SQLServer\\Clientes.cs",
+              "RelativeDocumentMoniker": "Entidades\\SQLServer\\Clientes.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Universidad\\Proyecto 1\\Proyecto 1\\WebAPI_Proyecto_1\\Entidades\\SQLServer\\Clientes.cs",
+              "RelativeToolTip": "Entidades\\SQLServer\\Clientes.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T07:08:10.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccesoMongoDB.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Universidad\\Proyecto 1\\Proyecto 1\\WebAPI_Proyecto_1\\AccesoDatos\\AccesoMongoDB.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\AccesoMongoDB.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Universidad\\Proyecto 1\\Proyecto 1\\WebAPI_Proyecto_1\\AccesoDatos\\AccesoMongoDB.cs",
+              "RelativeToolTip": "AccesoDatos\\AccesoMongoDB.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwCgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T07:07:43.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAccesoMongoDB.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Universidad\\Proyecto 1\\Proyecto 1\\WebAPI_Proyecto_1\\AccesoDatos\\Interfaces\\IAccesoMongoDB.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Interfaces\\IAccesoMongoDB.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Universidad\\Proyecto 1\\Proyecto 1\\WebAPI_Proyecto_1\\AccesoDatos\\Interfaces\\IAccesoMongoDB.cs",
+              "RelativeToolTip": "AccesoDatos\\Interfaces\\IAccesoMongoDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T07:07:27.052Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

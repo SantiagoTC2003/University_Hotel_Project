@@ -1,0 +1,69 @@
+﻿@model Presentacion.Models.ReservaModel
+
+@{
+    Layout = "~/Views/Shared/_LayoutDashboard.cshtml";
+    ViewData["Title"] = "Eliminar";
+}
+
+<h1>Eliminar Reserva</h1>
+
+<h3>¿Seguro desea eliminar este registro?</h3>
+<div>
+    <form asp-action="EliminarReserva" asp-controller="Reserva" method="post">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="form-group">
+            <label asp-for="IdReserva" class="control-label"></label>
+            <input asp-for="IdReserva" readonly="readonly" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="CodReserva" class="control-label"></label>
+            <input asp-for="CodReserva" readonly="readonly" class="form-control" />
+            <span asp-validation-for="CodReserva" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="FechaEntrada" class="control-label"></label>
+            <input asp-for="FechaEntrada" readonly="readonly" class="form-control" />
+            <span asp-validation-for="FechaEntrada" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="FechaSalida" class="control-label"></label>
+            <input asp-for="FechaSalida" readonly="readonly" class="form-control" />
+            <span asp-validation-for="FechaSalida" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="CantidadAdultos" class="control-label"></label>
+            <input asp-for="CantidadAdultos" readonly="readonly" class="form-control" />
+            <span asp-validation-for="CantidadAdultos" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="CantidadNinos" class="control-label"></label>
+            <input asp-for="CantidadNinos" readonly="readonly" class="form-control" />
+            <span asp-validation-for="CantidadNinos" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="CedulaCliente" class="control-label"></label>
+            <input asp-for="CedulaCliente" readonly="readonly" class="form-control" />
+            <span asp-validation-for="CedulaCliente" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="CodHabitacion" class="control-label"></label>
+            <input asp-for="CodHabitacion" readonly="readonly" class="form-control" />
+            <span asp-validation-for="CodHabitacion" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="PrecioHabitacion" class="control-label"></label>
+            <input asp-for="PrecioHabitacion" readonly="readonly" class="form-control" />
+            <span asp-validation-for="PrecioHabitacion" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <input type="submit" value="Eliminar" class="btn btn-danger" />
+        </div>
+
+        <div>
+            <br />
+            <a asp-action="Index">Volver a la lista</a>
+        </div>
+    </form>
+</div>

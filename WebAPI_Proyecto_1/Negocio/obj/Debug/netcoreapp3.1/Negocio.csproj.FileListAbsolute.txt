@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Negocio\bin\Debug\netcoreapp3.1\Negocio.deps.json
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Negocio\bin\Debug\netcoreapp3.1\Negocio.dll
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Negocio\bin\Debug\netcoreapp3.1\Negocio.pdb
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Negocio\bin\Debug\netcoreapp3.1\AccesoDatos.dll
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Negocio\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Negocio\bin\Debug\netcoreapp3.1\AccesoDatos.pdb
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Negocio\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Negocio\obj\Debug\netcoreapp3.1\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfo.cs
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CopyComplete
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Negocio\obj\Debug\netcoreapp3.1\Negocio.dll
+C:\Users\pc\Desktop\Proyecto Progra Avanzada\WebAPI_Proyecto_1\Negocio\obj\Debug\netcoreapp3.1\Negocio.pdb

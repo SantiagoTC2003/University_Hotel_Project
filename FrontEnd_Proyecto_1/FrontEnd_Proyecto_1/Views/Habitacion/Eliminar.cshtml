@@ -1,0 +1,49 @@
+﻿@model FrontEnd_Proyecto_1.Models.HabitacionModel
+
+@{
+    Layout = "~/Views/Shared/_LayoutDashboard.cshtml";
+    ViewData["Title"] = "Eliminar";
+}
+
+<h1>Eliminar Habitación</h1>
+
+<h3>¿Seguro que desea eliminar esta habitación?</h3>
+<div>
+    <h4>HabitacionModel</h4>
+    <hr />
+    <form asp-action="EliminarHabitacion" asp-controller="Habitacion" method="post" class="col-md-12">
+
+        <div class="form-group col-12 col-md-6">
+            <label asp-for="CodHabitacion" class="control-label"></label>
+            <input asp-for="CodHabitacion" readonly="readonly" class="form-control" />
+        </div>
+        <div class="form-group col-12 col-md-6">
+            <label asp-for="TipoHabitacion" class="control-label"></label>
+            <input asp-for="TipoHabitacion" readonly="readonly" class="form-control" />
+            <span asp-validation-for="TipoHabitacion" class="text-danger"></span>
+        </div>
+        <div class="form-group col-12 col-md-6">
+            <label asp-for="CapacidadHabitacion" class="control-label"></label>
+            <input asp-for="CapacidadHabitacion" readonly="readonly" class="form-control" />
+            <span asp-validation-for="CapacidadHabitacion" class="text-danger"></span>
+        </div>
+        <div class="form-group col-12 col-md-6">
+            <label asp-for="EstadoHabitacion" class="control-label"></label>
+            <input asp-for="EstadoHabitacion" readonly="readonly" class="form-control" />
+            <span asp-validation-for="EstadoHabitacion" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Eliminar" class="btn btn-danger" />
+        </div>
+
+    </form>
+    <div>
+        <br />
+        <a asp-action="Index">Volver a la lista</a>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
